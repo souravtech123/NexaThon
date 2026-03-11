@@ -1,0 +1,7 @@
+Health Tech 
+
+Patients often struggle to find available hospital resources quickly such as ICU beds, blood donors, doctors, or emergency services. During emergencies, valuable time is lost calling multiple hospitals.
+
+
+First Feature : Finding Nearby Hospital services
+
