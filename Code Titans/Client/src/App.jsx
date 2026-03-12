@@ -3,6 +3,8 @@ import Home from './Pages/Home'
 import {Routes , Route } from 'react-router'
 import FindHospital from './Components/HospitalSystem/FindHospital'
 import BloodDonorApp from './Pages/BloodDonor'
+import Emergency from './Pages/Emergency'
+import HospitalResource from './Pages/HospitalResource'
 
 const App = () => {
   return (
@@ -12,6 +14,8 @@ const App = () => {
       <Route path="/" element={<Home />} />
       <Route path="/Hospital" element={<FindHospital />} />
       <Route path="/Donor" element={<BloodDonorApp />} />
+      <Route path="/Emergency" element={<Emergency />} />
+      <Route path="/HospitalResource" element={<HospitalResource />} />
       
     </Routes>
     
